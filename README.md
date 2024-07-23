@@ -1,1 +1,2 @@
-# documents
+Simple project in SQL
+=================
