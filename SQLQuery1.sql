@@ -29,3 +29,13 @@ The data is created from the SQL itself.
         ,[Jobtitle]
 		,[Salary]		
 	FROM [SQL Tutorial].[dbo].[EmployeeSalary]
+
+
+
+
+CREATE TABLE WareHouseEmployeeDemographics
+(EmployeeID int,
+FirstName varchar (50),
+LastName varchar (50),
+age int,
+Gender varchar (50))

@@ -32,3 +32,13 @@ SELECT TOP (1000) [EmployeeID]
 --(1007, 'Supplier Relations', 41000),
 --(1008, 'Salesman', 48000),
 --(1009, 'Accountant', 42000)
+
+
+Insert Into WareHouseEmployeeDemographics VALUES
+(1050, 'Roy', 'Anderson', 31, 'Male'),
+(1051, 'Hidetoshi', 'Hasagawa', 40, 'Male'),
+(1052, 'Val', 'Johnson', 31, 'Female'),
+(1013, 'Darryl', 'Philbin', null, 'Female')
+
+SELECT *
+FROM [SQL Tutorial].dbo.WareHouseEmployeeDemographics
