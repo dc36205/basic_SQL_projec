@@ -1,12 +1,6 @@
 
 
 /*  
-
-From Database SQL Tutorial
-*/
-
-/*  
-
 Select statement 
 *, Top, Distinct, count, As, Max, Min, Avg, 
 */

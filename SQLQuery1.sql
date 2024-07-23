@@ -1,3 +1,9 @@
+/* 
+This is a basic and simple project in SQL.
+The data is created from the SQL itself.
+
+*/ 
+
 --CREATE TABLE EmployeeDemographics
 --(EmployeeID int,
 --FirstName varchar (50),

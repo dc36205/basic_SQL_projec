@@ -1,9 +1,7 @@
-/*  
-From Database SQL Tutorial
-*/
+
 
 /*  
-Where statement 
+
 Group by, order by
 */
 
